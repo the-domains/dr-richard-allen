@@ -1,6 +1,6 @@
 name: Dr. Richard Allen
 favicon: null
-layout_spectrum: 0.50156
+layout_spectrum: 0.41727
 typography_spectrum: 0.3719397441018373
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#e8b48c'
     - '#efe2d2'
   brandStrength: 0.125
-  lightness: 0.023781616473570466
+  lightness: 0.375
   saturation: 0.6549934053327888
   rhythmicContrast: 0.35940962424501777
 purpose: []
